@@ -1,0 +1,10 @@
+[submodule "microservices/ems-alga-comment-service"]
+	path = microservices/ems-alga-comment-service
+	url = git@github.com:FelipeSdsilva/ems-alga-comment-service.git
+[submodule "microservices/ems-alga-moderation-service"]
+	path = microservices/ems-alga-moderation-service
+	url = git@github.com:FelipeSdsilva/ems-alga-moderation-service.git
+[submodule "ems-alga-comment-service/"]
+	branch = main
+[submodule "ems-alga-moderation-service/"]
+	branch = main
